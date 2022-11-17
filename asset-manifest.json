@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sameh-besan-portfolio/static/css/main.3cd5aab7.css",
+    "main.js": "/sameh-besan-portfolio/static/js/main.e664356e.js",
+    "static/media/WorkImg2.png": "/sameh-besan-portfolio/static/media/WorkImg2.7c2aeab1df8fb48d91d8.png",
+    "static/media/WorkImg3.png": "/sameh-besan-portfolio/static/media/WorkImg3.dbf1c165c6ebf476cf26.png",
+    "static/media/WorkImg1.png": "/sameh-besan-portfolio/static/media/WorkImg1.a4a5dce5a56857d1b6c6.png",
+    "static/media/WorkImg4.png": "/sameh-besan-portfolio/static/media/WorkImg4.28b57fed6f5df159f2fd.png",
+    "static/media/WorkImg5.png": "/sameh-besan-portfolio/static/media/WorkImg5.b68887b0a7b54414a186.png",
+    "static/media/react.png": "/sameh-besan-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/sameh-besan-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/sameh-besan-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/sameh-besan-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/sameh-besan-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/sameh-besan-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/android.png": "/sameh-besan-portfolio/static/media/android.89fe62949d3bc9befac2.png",
+    "static/media/javascript.png": "/sameh-besan-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/sameh-besan-portfolio/index.html",
+    "main.3cd5aab7.css.map": "/sameh-besan-portfolio/static/css/main.3cd5aab7.css.map",
+    "main.e664356e.js.map": "/sameh-besan-portfolio/static/js/main.e664356e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd5aab7.css",
+    "static/js/main.e664356e.js"
+  ]
+}
