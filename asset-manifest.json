@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sameh-besan-portfolio/static/css/main.3cd5aab7.css",
-    "main.js": "/sameh-besan-portfolio/static/js/main.e664356e.js",
+    "main.css": "/sameh-besan-portfolio/static/css/main.e3748675.css",
+    "main.js": "/sameh-besan-portfolio/static/js/main.1d627168.js",
     "static/media/WorkImg2.png": "/sameh-besan-portfolio/static/media/WorkImg2.7c2aeab1df8fb48d91d8.png",
     "static/media/WorkImg3.png": "/sameh-besan-portfolio/static/media/WorkImg3.dbf1c165c6ebf476cf26.png",
     "static/media/WorkImg1.png": "/sameh-besan-portfolio/static/media/WorkImg1.a4a5dce5a56857d1b6c6.png",
@@ -16,11 +16,11 @@
     "static/media/android.png": "/sameh-besan-portfolio/static/media/android.89fe62949d3bc9befac2.png",
     "static/media/javascript.png": "/sameh-besan-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/sameh-besan-portfolio/index.html",
-    "main.3cd5aab7.css.map": "/sameh-besan-portfolio/static/css/main.3cd5aab7.css.map",
-    "main.e664356e.js.map": "/sameh-besan-portfolio/static/js/main.e664356e.js.map"
+    "main.e3748675.css.map": "/sameh-besan-portfolio/static/css/main.e3748675.css.map",
+    "main.1d627168.js.map": "/sameh-besan-portfolio/static/js/main.1d627168.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cd5aab7.css",
-    "static/js/main.e664356e.js"
+    "static/css/main.e3748675.css",
+    "static/js/main.1d627168.js"
   ]
 }
